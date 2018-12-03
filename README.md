@@ -4,7 +4,7 @@ Wij maken een digitale vresie van het wel bekende familie spel monopoly. <br>
 Dit gaan wij doen met een team van 6 mensen. <br>
 <br>
 De rollen zijn als volgt verdeeld <br>
-> Project name: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file. <br>
+Architect: Matteo is in ons project de . <br>
 <br>
 Description: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does. <br>
 <br>
