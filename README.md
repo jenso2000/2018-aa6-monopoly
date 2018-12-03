@@ -1,6 +1,6 @@
 # Monopoly 
 
-Wij maken een digitale vresie van het wel bekende familie spel monopoly. <br>
+Wij maken een digitale versie van het wel bekende familie spel monopoly. <br>
 Dit gaan wij doen met een team van 6 mensen. <br>
 <br>
 De rollen zijn als volgt verdeeld <br>
@@ -17,3 +17,8 @@ Back-end: Daan <br>
 Chief executive: Bram <br>
 <br>
 Credits: Include a section for credits in order to highlight and link to the authors of your project. <br>
+ggfgf
+gf
+gfgf
+gfg
+f
