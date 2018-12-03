@@ -17,8 +17,3 @@ Back-end: Daan <br>
 Chief executive: Bram <br>
 <br>
 Credits: Include a section for credits in order to highlight and link to the authors of your project. <br>
-ggfgf
-gf
-gfgf
-gfg
-f
