@@ -1,1 +1,8 @@
-# 2018-aa6-monopoly
+# Monopoly 
+
+fbfhrbgr
+grgrg
+rgrgr
+grg
+rgr
+g
