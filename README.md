@@ -20,7 +20,7 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 
 <br>
 <H1> De progressie in het spel. </H1> <br>
-http://github.com <br>
+ <br>
 <br>
 <h1> fefeffefefe  </H1>
 Credits: Meneer Velthuizen & Meneer van der Veen. <br>
