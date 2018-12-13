@@ -24,7 +24,7 @@ Alle commits voor de nieuwsgierige lezer: <br> https://github.com/jenso2000/2018
 <h3>De levensloop van Polymono </h3>
 Het eerste idee: https://github.com/jenso2000/2018-aa6-monopoly/projects/1 
 Dit was ons eerste idee en hier hebben wij gekeken hoe wij ons project aan wilden pakken. Dit is dus het begin van ons project en de bakenmat voor ons eindproject. <br>
-Belangrijke Commits: <br>
+<h3>Belangrijke Commits: </h3>
 
 <h1> Problemen </H1>
 Credits: Meneer Velthuizen & Meneer van der Veen. <br>
