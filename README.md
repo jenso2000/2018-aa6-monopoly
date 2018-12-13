@@ -5,7 +5,7 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 <br>
 # De rollen zijn als volgt verdeeld: <br>
 <br>
-<H3> Architect: </H3> Matteo is in ons project de architect. Hij bekijkt wat er nodig is voor ons project en door wie dit gemaakt en geprogameerd moet worden. <br>
+<H3> Architect:</H3>  Matteo is in ons project de architect. Hij bekijkt wat er nodig is voor ons project en door wie dit gemaakt en geprogameerd moet worden. <br>
 
 <H3>Back-End:</H3> Daan is veranwoordelijk voor de Back-end. Hij zorgt er voor dat alles aan de achterkant van het spel goed loopt en alle code met elkaar samenwerkt. <br>
 
@@ -19,8 +19,7 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 
 
 <br>
-<H1> De [progressie](https://pages.github.com/) in het spel. </H1> <br>
-This site was built using [GitHub Pages](https://pages.github.com/).
+<H1> De  <a href="https://www.w3schools.com/html/"> De progressie</a> in het spel. </H1> <br>
 Alle commits voor de nieuwsgierige lezer: <br> https://github.com/jenso2000/2018-aa6-monopoly/commits/master<br>
 <h3>De levensloop van Polymono </h3>
 Het eerste idee: https://github.com/jenso2000/2018-aa6-monopoly/projects/1 
