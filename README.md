@@ -21,10 +21,10 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 <br>
 <H1> De progressie in het spel. </H1> <br>
 Alle commits voor de nieuwsgierige lezer: <br> https://github.com/jenso2000/2018-aa6-monopoly/commits/master<br>
-De levensloop van Polymono <br>
-Het eerste idee:<br> https://github.com/jenso2000/2018-aa6-monopoly/projects/1 <br>
-Dit was ons eerste idee en hier hebben wij gekeken hoe wij ons project aan wilden pakken. Dit is dus het begin van ons project en de baken mat voor ons eind project. <br>
+<h3>De levensloop van Polymono </h3>
+Het eerste idee: https://github.com/jenso2000/2018-aa6-monopoly/projects/1 
+Dit was ons eerste idee en hier hebben wij gekeken hoe wij ons project aan wilden pakken. Dit is dus het begin van ons project en de bakenmat voor ons eindproject. <br>
 Belangrijke Commits: <br>
 
-<h1> fefeffefefe  </H1>
+<h1> Problemen </H1>
 Credits: Meneer Velthuizen & Meneer van der Veen. <br>
