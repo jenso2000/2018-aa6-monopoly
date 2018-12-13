@@ -19,7 +19,7 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 
 
 <br>
-<H1> [De progressie in het spel.](https://pages.github.com/) </H1> <br> 
+<H1> De [progressie](https://pages.github.com/) in het spel. </H1> <br> 
 Alle commits voor de nieuwsgierige lezer: <br> https://github.com/jenso2000/2018-aa6-monopoly/commits/master<br>
 <h3>De levensloop van Polymono </h3>
 Het eerste idee: https://github.com/jenso2000/2018-aa6-monopoly/projects/1 
