@@ -20,7 +20,7 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 
 <br>
 <H1> De progressie in het spel. </H1> <br>
-Aanpassingen: Immo: https://github.com/jenso2000/2018-aa6-monopoly/commits?author=IkbenImmo <br>
+Aanpassinge in alles: https://github.com/jenso2000/2018-aa6-monopoly/commits/master<br>
 <br>
 <h1> fefeffefefe  </H1>
 Credits: Meneer Velthuizen & Meneer van der Veen. <br>
