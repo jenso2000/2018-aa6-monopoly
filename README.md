@@ -23,7 +23,7 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 Alle commits voor de nieuwsgierige lezer: <br> https://github.com/jenso2000/2018-aa6-monopoly/commits/master<br>
 <h3>De levensloop van Polymono </h3>
 Het eerste idee: https://github.com/jenso2000/2018-aa6-monopoly/projects/1 
-Dit was ons eerste idee en hier hebben wij gekeken hoe wij ons project aan wilden pakken. Dit is dus het begin van ons project en de bakenmat voor ons eindproject. <br>
+Dit was ons eerste idee en hier hebben wij gekeken hoe wij ons project aan wilden pakken. Dit is dus het begin van ons project en de bakenmat voor ons eindproject. In de Architectuur https://www.draw.io/#Hjenso2000%2F2018-aa6-monopoly%2Fmaster%2FArchitecture%2FArchitecture.xml staan de concrete opbouw en ideeën. <br>
 <h3>Belangrijke Commits: </h3>
 
 <h1> Problemen </H1>
