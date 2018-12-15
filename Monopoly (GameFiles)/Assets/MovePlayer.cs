@@ -7,10 +7,9 @@ public class MovePlayer : MonoBehaviour {
 	public int steps;
 	private int dice;
 	public Text diceText;
-	private transform.position.z = GetAxis("Z");
 	// Use this for initialization
 	void Start () {
-		
+		 Vector3 position = new Vector3(transform.position.x,transform.position.y, transform.position.z);
 	}
 	
 	// Update is called once per frame
