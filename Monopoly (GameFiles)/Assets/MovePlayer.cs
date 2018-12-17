@@ -14,12 +14,22 @@ public class MovePlayer : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown("space") && transform.position.z > -45 ) {
+		if (Input.GetKeyDown("space")) {
+			print("test1");
 			int steps = Random.Range(2,12);
-			transform.Translate (0,0,steps*-10);
-			diceText.text = "Je hebt gegooid: " + steps.ToString ();
-		} else if (Input.GetKeyDown("space") && transform.position.z < -45) {
-			transform.Translate (steps*-10,0,0);
+			diceText.text = "Je hebt " + steps.ToString () + " gegooid";
+			for (int i = steps; i > 0; i-- ) {
+				print(transform.position.z);
+			if (transform.position.z > -45) {
+				
+			transform.Translate (0,0,-10);
+			} else if (transform.position.z <= -45) {
+				print("test2");
+				transform.Translate(-10,0,0);
+			}
+			}
+	//	} else if (Input.GetKeyDown("space") && transform.position.z < -45) {
+		//	transform.Translate (steps*-10,0,0);
 		}
 	}
 }
