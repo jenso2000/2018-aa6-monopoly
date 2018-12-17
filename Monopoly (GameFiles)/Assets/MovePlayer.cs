@@ -9,7 +9,7 @@ public class MovePlayer : MonoBehaviour {
 	public Text diceText;
 	// Use this for initialization
 	void Start () {
-		 Vector3 position = new Vector3(transform.position.x,transform.position.y, transform.position.z);
+		 transform.position = new Vector3(transform.position.x,transform.position.y, transform.position.z);
 	}
 	
 	// Update is called once per frame
@@ -26,10 +26,12 @@ public class MovePlayer : MonoBehaviour {
 			} else if (transform.position.z <= -45) {
 				print("test2");
 				transform.Translate(-10,0,0);
+			} else if (transform.position.x <= -45) {
+				print("test3");
+				transform.Translate(0,0,10);
 			}
-			}
-	//	} else if (Input.GetKeyDown("space") && transform.position.z < -45) {
-		//	transform.Translate (steps*-10,0,0);
+
 		}
+	}
 	}
 }
