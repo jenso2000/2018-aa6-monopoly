@@ -20,17 +20,16 @@ public class MovePlayer : MonoBehaviour {
 			diceText.text = "Je hebt " + steps.ToString () + " gegooid";
 			for (int i = steps; i > 0; i-- ) {
 				print(transform.position.z);
-			if (transform.position.z > -45) {
-				
-			transform.Translate (0,0,-10);
-			} else if (transform.position.z <= -45) {
+			if (transform.position.z > -45 && transform.position.x == 55) {
+				transform.Translate (0,0,-10);
+			} else if (transform.position.z == -45 && transform.position.x > -45) {
 				print("test2");
 				transform.Translate(-10,0,0);
-			} else if (transform.position.x <= -45) {
-				print("test3");
+			} else if (transform.position.z < 55 && transform.position.x == -45) {
 				transform.Translate(0,0,10);
+			} else if (transform.position.z == 55 && transform.position.x < 55){
+				transform.Translate(10,0,0);
 			}
-
 		}
 	}
 	}
