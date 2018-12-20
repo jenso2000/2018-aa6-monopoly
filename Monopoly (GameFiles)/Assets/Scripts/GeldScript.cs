@@ -15,12 +15,10 @@ public class GeldScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		geldText.text = "Geld " + geldAantal;
-            if (transform.position.z == 45 && transform.position.x == 55)
-            {
-            if (Input.GetKeyDown(KeyCode.DownArrow))
-            {
-                geldAantal = geldAantal - SoundCloud.KostenSoundcloud;
-            } 
-            }
-        }
+		if (transform.position.z == 45 && transform.position.x == 55) {
+			if (Input.GetKeyDown(KeyCode.DownArrow)) {
+				geldAantal = geldAantal - SoundCloud.kostenSoundCloud;
+			}
+		}
 	}
+}
