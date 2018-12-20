@@ -30,7 +30,7 @@ https://github.com/jenso2000/2018-aa6-monopoly/network
 
 <h1> Problemen </H1>
 
-Tijdens het coderen liepen wij als groep tegen een aantal problemen aan, om te begrijpen waarom en hoe het spel werkt en is opgebouwd is het handig om te weten hoe wij deze problemen hebben opgelost.<br>
+Tijdens het coderen liepen wij als groep tegen een aantal problemen aan, om te begrijpen waarom en hoe het spel werkt en is opgebouwd is het handig om te weten hoe wij deze problemen hebben opgelost. Hier hebben wij neergezet wat er gemaakt moet worden voor het spel. https://www.draw.io/#Hjenso2000%2F2018-aa6-monopoly%2Fmaster%2FArchitecture%2FMap%20Desigin.xml<br>
 <h3>probleem 1</h3>
 Bepalen wat haalbaar is in de relatief korte tijd die wij hadden. Hier hebben wij uiteindelijk gekozen voor een overzichtelijke vorm van architectuur gemaakt en bedacht door Matteo Mazza. Hier staat wat wij willen breiken en hoe ons spel opgebouwd is. Mocht je ons willen helpen dan is dat de handgste plek om te beginnen.<br>
 <h3>Probleem 2</h3>
