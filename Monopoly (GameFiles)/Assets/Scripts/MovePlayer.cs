@@ -15,8 +15,8 @@ public class MovePlayer : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown("space")) {
-            int steps = Random.Range(2,12);
-            //int steps = 1;
+			int steps = Random.Range(2,12);
+			//int steps = 1;
 			diceText.text = "Je hebt " + steps.ToString () + " gegooid";
 			for (int i = steps; i > 0; i-- ) {
 			if (transform.position.z > -45 && transform.position.x == 55) {
