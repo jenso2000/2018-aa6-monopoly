@@ -7,14 +7,17 @@ public class GeldScript : MonoBehaviour {
 	public Text geldText;
 	public int geldAantal;
 
-	// Use this for initialization
+	
 	void Start () {
+		//Geld variabele aanmaken
 		geldAantal = 1500;
 	}
 	
-	// Update is called once per frame
+	
 	void Update () {
+		//Geld aanmaken
 		geldText.text = "Geld " + geldAantal;
+		//Geld afschrijven als je op pijl naar beneden drukt
 		if (transform.position.z == 45 && transform.position.x == 55) {
 			if (Input.GetKeyDown(KeyCode.DownArrow)) {
 				geldAantal = geldAantal - SoundCloud.kostenSoundCloud;
