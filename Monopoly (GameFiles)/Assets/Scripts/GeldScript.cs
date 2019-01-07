@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class GeldScript : MonoBehaviour {
+    // Maak de benodigde variabelen aan
     public Text geldText;
     public int geldAantal;
     public Text buttonText;
@@ -13,36 +14,33 @@ public class GeldScript : MonoBehaviour {
 
 
     void Start() {
-        //Geld variabele aanmaken
-        geldAantal = 1500;
-        myButton.onClick.AddListener(TaskOnClick);
-        buttonContinue.SetActive(false);
-        clicked = false;
+        geldAantal = 1500; //Geld variabele aanmaken
+        myButton.onClick.AddListener(TaskOnClick); //"luistert" naar of er geklikt wordt op de button
+        buttonContinue.SetActive(false); // De button moet nog niet verschijnen
+        clicked = false; // Er is nog niet op de button geklikt
     }
 
 
     void Update() {
-        //Geld aanmaken
-        geldText.text = "Geld " + geldAantal;
-        if (transform.position.z == 45 && transform.position.x == 55)
+        geldText.text = "Geld " + geldAantal; //Geld aanmaken
+        if (transform.position.z == 45 && transform.position.x == 55) // Laat de button zien als hij op het eerste vakje staat
         {
             buttonContinue.SetActive(true);
-        } else
+        } else // Anders niet laten zien (of weer laten verdwijnen)
         {
             buttonContinue.SetActive(false);
         }
-        //Geld afschrijven als je op pijl naar beneden drukt
     }
 
     void TaskOnClick()
     {
-        if (transform.position.z == 45 && transform.position.x == 55 && clicked == false)
+        if (clicked == false) //Als er nog niet eerder op de button geklikt is voer dit dan uit
         {
-            buttonText.text = "gekocht!";
-            geldAantal = geldAantal - SoundCloud.kostenSoundCloud;
-            clicked = true;
-        } else if (transform.position.z == 45 && transform.position.x == 55 && clicked == true) {
-            buttonText.text = "niet zo hebberig";
-        } 
+            buttonText.text = "gekocht!"; // Laat zien dat de button gekocht is
+            geldAantal = geldAantal - SoundCloud.kostenSoundCloud; // Verander het geld aantal
+            clicked = true; // Sla op dat er geklikt is
+        } else if (clicked == true) { // Doe dit als er al geklikt is
+            buttonText.text = "niet zo hebberig"; // Geef aan dat nog een keer klikken geen zin heeft
+        }
     }
 }
