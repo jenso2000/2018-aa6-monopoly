@@ -1019,7 +1019,6 @@ GameObject:
   - component: {fileID: 750773911}
   - component: {fileID: 750773914}
   - component: {fileID: 750773913}
-  - component: {fileID: 750773912}
   m_Layer: 5
   m_Name: buttonText
   m_TagString: Untagged
@@ -1045,19 +1044,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &750773912
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 750773910}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c3ae88f19f060724cbc0ef0661da22b8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  buttonText: {fileID: 0}
-  myButton: {fileID: 0}
 --- !u!114 &750773913
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3220,6 +3206,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   geldText: {fileID: 694368005}
   geldAantal: 0
+  buttonText: {fileID: 750773913}
+  myButton: {fileID: 1623134273}
+  buttonContinue: {fileID: 1623134271}
+  clicked: 0
 --- !u!114 &1877665229
 MonoBehaviour:
   m_ObjectHideFlags: 0
