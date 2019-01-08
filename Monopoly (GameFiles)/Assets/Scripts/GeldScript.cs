@@ -38,6 +38,7 @@ public class GeldScript : MonoBehaviour {
         {
             buttonText.text = "gekocht!"; // Laat zien dat de button gekocht is
             geldAantal = geldAantal - SoundCloud.kostenSoundCloud; // Verander het geld aantal
+			SoundCloud.eigenaarSoundCloud = "Speler1";
             clicked = true; // Sla op dat er geklikt is
         } else if (clicked == true) { // Doe dit als er al geklikt is
             buttonText.text = "niet zo hebberig"; // Geef aan dat nog een keer klikken geen zin heeft
