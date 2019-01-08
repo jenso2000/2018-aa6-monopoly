@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45140034, g: 0.5008928, b: 0.5723121, a: 1}
+  m_IndirectSpecularColor: {r: 0.45140034, g: 0.5008928, b: 0.5723122, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -3567,6 +3567,7 @@ MonoBehaviour:
   myButton: {fileID: 1623134273}
   buttonContinue: {fileID: 1623134271}
   clicked: 0
+  eigenaarText: {fileID: 1232982403}
 --- !u!114 &1877665229
 MonoBehaviour:
   m_ObjectHideFlags: 0

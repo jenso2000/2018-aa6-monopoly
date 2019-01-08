@@ -31,7 +31,10 @@ public class MovePlayer : MonoBehaviour {
 				transform.Translate (0,0,-10);
 			} else if (transform.position.z == -45 && transform.position.x > -45) {
 				transform.Translate(-10,0,0);
-			} else if (transform.position.z < 55 && transform.position.x == -45) {
+                   // var rotationVector = transform.rotation.eulerAngles;
+                   // rotationVector.y = 90;
+                   // transform.rotation = Quaternion.Euler(rotationVector);
+                } else if (transform.position.z < 55 && transform.position.x == -45) {
 				transform.Translate(0,0,10);
 			} else if (transform.position.z == 55 && transform.position.x < 55){
 				transform.Translate(10,0,0);
