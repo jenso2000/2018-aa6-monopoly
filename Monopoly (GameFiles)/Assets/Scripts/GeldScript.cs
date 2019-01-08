@@ -27,9 +27,15 @@ public class GeldScript : MonoBehaviour {
         if (transform.position.z == 45 && transform.position.x == 55) // Laat de button zien als hij op het eerste vakje staat
         {
             buttonContinue.SetActive(true);
+            if (clicked == true)
+            {
+                SoundCloud.eigenaarb207 = "Speler1";
+                eigenaarText.text = SoundCloud.eigenaarb207;
+            }
         } else // Anders niet laten zien (of weer laten verdwijnen)
         {
             buttonContinue.SetActive(false);
+            eigenaarText.text = "nog geen eigenaar";
         }
     }
 
@@ -39,8 +45,6 @@ public class GeldScript : MonoBehaviour {
         {
             buttonText.text = "gekocht!"; // Laat zien dat de button gekocht is
             geldAantal = geldAantal - SoundCloud.kostenSoundCloud; // Verander het geld aantal
-			SoundCloud.eigenaarb207 = "Speler1";
-            eigenaarText.text = SoundCloud.eigenaarb207;
             clicked = true; // Sla op dat er geklikt is
         } else if (clicked == true) { // Doe dit als er al geklikt is
             buttonText.text = "niet zo hebberig"; // Geef aan dat nog een keer klikken geen zin heeft
