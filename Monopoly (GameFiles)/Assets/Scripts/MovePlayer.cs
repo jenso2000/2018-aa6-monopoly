@@ -22,7 +22,7 @@ public class MovePlayer : MonoBehaviour {
 		if (Input.GetKeyDown("space")) {
 			//int steps = Random.Range(2,12);
 			int steps = 1;
-			GameObject.Find("Main Camera").transform.position = new Vector3(61,7,45);
+			//GameObject.Find("Main Camera").transform.position = new Vector3(61,7,45);
 			
 			diceText.text = "Je hebt " + steps.ToString () + " gegooid";
 			for (int i = steps; i > 0; i-- ) {
