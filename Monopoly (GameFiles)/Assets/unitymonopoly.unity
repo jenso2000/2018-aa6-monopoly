@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45140034, g: 0.5008928, b: 0.5723121, a: 1}
+  m_IndirectSpecularColor: {r: 0.45140034, g: 0.5008928, b: 0.5723122, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -1389,8 +1389,9 @@ GameObject:
   - component: {fileID: 865757253}
   - component: {fileID: 865757252}
   - component: {fileID: 865757251}
+  - component: {fileID: 865757254}
   m_Layer: 0
-  m_Name: eigenaar vakje
+  m_Name: eigenaarVakje
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1423,7 +1424,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 5551bcc9c2711a144933059b3a7f23f4, type: 2}
+  - {fileID: 2100000, guid: 7bcad0d8e574d3b449254d1d76bbad7a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1464,6 +1465,17 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 865757249}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &865757254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 865757249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f18c59cc868ec3f458bb66ce0f81bd4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &868683832
 Prefab:
   m_ObjectHideFlags: 0
@@ -3566,7 +3578,6 @@ MonoBehaviour:
   buttonText: {fileID: 750773913}
   myButton: {fileID: 1623134273}
   buttonContinue: {fileID: 1623134271}
-  clicked: 0
   eigenaarText: {fileID: 1232982403}
 --- !u!114 &1877665229
 MonoBehaviour:

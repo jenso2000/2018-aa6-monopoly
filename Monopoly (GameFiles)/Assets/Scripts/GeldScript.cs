@@ -10,7 +10,7 @@ public class GeldScript : MonoBehaviour {
     public Text buttonText;
     public Button myButton;
     public GameObject buttonContinue;
-    public bool clicked;
+    public static bool clicked;
     public Text eigenaarText;
 
 
