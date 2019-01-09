@@ -12,7 +12,8 @@ public class GeldScript : MonoBehaviour {
     public GameObject buttonContinue;
     public static bool clicked;
     public Text eigenaarText;
-
+	public Text BankText;
+	public int BankSaldo;
 
     void Start() {
         geldAantal = 1500; //Geld variabele aanmaken
@@ -24,6 +25,7 @@ public class GeldScript : MonoBehaviour {
 
     void Update() {
         geldText.text = "Geld " + geldAantal; //Geld aanmaken
+		BankText.text = "Bank: " + BankSaldo;
         if (transform.position.z == 45 && transform.position.x == 55) // Laat de button zien als hij op het eerste vakje staat
         {
             buttonContinue.SetActive(true);
@@ -36,7 +38,11 @@ public class GeldScript : MonoBehaviour {
         {
             buttonContinue.SetActive(false);
             eigenaarText.text = "nog geen eigenaar";
-        }
+        } if (transform.position.z == -45 && transform.position.x == -45){
+			geldAantal = geldAantal + BankSaldo;
+			BankSaldo = 0;
+		}
+		
     }
 
     void TaskOnClick()
@@ -46,6 +52,7 @@ public class GeldScript : MonoBehaviour {
             buttonText.text = "gekocht!"; // Laat zien dat de button gekocht is
             geldAantal = geldAantal - SoundCloud.kostenSoundCloud; // Verander het geld aantal
             clicked = true; // Sla op dat er geklikt is
+			BankSaldo = BankSaldo + SoundCloud.kostenSoundCloud;
         } else if (clicked == true) { // Doe dit als er al geklikt is
             buttonText.text = "niet zo hebberig"; // Geef aan dat nog een keer klikken geen zin heeft
         }
