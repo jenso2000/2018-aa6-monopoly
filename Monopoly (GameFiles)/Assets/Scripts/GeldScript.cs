@@ -30,7 +30,7 @@ public class GeldScript : MonoBehaviour {
             if (clicked == true)
             {
                 SoundCloud.eigenaarb207 = "Speler1";
-                eigenaarText.text = SoundCloud.eigenaarb207;
+                eigenaarText.text = "Eigenaar: " + SoundCloud.eigenaarb207;
             }
         } else // Anders niet laten zien (of weer laten verdwijnen)
         {
