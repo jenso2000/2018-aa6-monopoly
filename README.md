@@ -17,17 +17,24 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 
 <H3>Product Owner:</H3> Jens is de product owner. Hij moet de eisen en de haalbaarheid van het product goed balanceren. Aan het einde is hij verantwoordeljk voor het product. <br>
 
+<h1>Inhoudsopgave:</h1> <br>
+<h2>Installeren </h2><br>
+<h2>Gebruiksaanwijzing</h2><br>
+<h2>Documentatie</h2><br>
 
 <br>
-<H1> De progressie in het spel. </H1> <br>
-Alle commits voor de nieuwsgierige lezer: <br> https://github.com/jenso2000/2018-aa6-monopoly/commits/master<br>
-<h3>De levensloop van Polymono </h3>
-Het eerste idee: https://github.com/jenso2000/2018-aa6-monopoly/projects/1 
-Dit was ons eerste idee en hier hebben wij gekeken hoe wij ons project aan wilden pakken. Dit is dus het begin van ons project en de bakenmat voor ons eindproject. In de Architectuur https://www.draw.io/#Hjenso2000%2F2018-aa6-monopoly%2Fmaster%2FArchitecture%2FArchitecture.xml staan de concrete opbouw en ideeën. <br>
+<h2>Installeren </h2>
+Hoe moet je ons project installeren op de computer?
 
-<h1>Documentatie</h1>
+
+<h2>Gebruiksaanwijzing</h2>
+Hoe moet je ons project besturen?
+
+
+<h2>Documentatie</h2>
 https://github.com/jenso2000/2018-aa6-monopoly/tree/master/Documentation<br>
 
 
-
-Credits: Meneer Velthuizen & Meneer van der Veen. <br>
+Credits: <br>
+Meneer Velthuizen & Meneer van der Veen. <br>
+Daan, Jens, Bram, Matteo, Sjoerd en Immo<br>
