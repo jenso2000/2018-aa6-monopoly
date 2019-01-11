@@ -21,8 +21,8 @@ public class MovePlayer : MonoBehaviour {
 		//Als spatie ingedrukt verplaats random getal tussen 2 en 12
 		if (Input.GetKeyDown("space")) {
             //De random is nu tijdelijk uitgezet om het principe van het kopen te laten zien
-			//int steps = Random.Range(2,12);
-			int steps = 1;
+			//int steps = Random.Range(1,6) + Random.Range(1,6);
+			 int steps = 1;
 			//GameObject.Find("Main Camera").transform.position = new Vector3(61,7,45);
 			//Hieronder wordt de gegooide waarde op het scherm gezet
 			diceText.text = "Je hebt " + steps.ToString () + " gegooid";
