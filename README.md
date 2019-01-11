@@ -6,10 +6,10 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 
 
 <h1>Inhoudsopgave:</h1> <br>
-<h2>Rollen</h2><br>
-<h2>Installeren </h2><br>
-<h2>Gebruiksaanwijzing</h2><br>
-<h2>Documentatie</h2><br>
+<h4>Rollen</h4><br>
+<h4>Installeren </h4><br>
+<h4>Gebruiksaanwijzing</h4><br>
+<h4>Documentatie</h4><br>
 
 # De rollen zijn als volgt verdeeld: <br>
 <br>
@@ -26,7 +26,7 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 <H3>Product Owner:</H3> Jens is de product owner. Hij moet de eisen en de haalbaarheid van het product goed balanceren. Aan het einde is hij verantwoordeljk voor het product. <br>
 <br>
 <h2>Installeren </h2>
-Hoe moet je ons project installeren op de computer?
+Om onze game te kunnen spelen zal je eerst Unity moeten downloaden. Dit doe je via de volgende link: https://unity3d.com/get-unity/download/archive Erg belangrijk is dat de versie Unity 2017.3.0 wordt gedownload. Dit om problemen te voorkomen, omdat ons project in deze versie is gemaakt. Als Unity is geïnstalleerd kan via de volgende link ons spel gedownload worden: https://github.com/jenso2000/2018-aa6-monopoly Klik dan op de groene knop met daarop "clone or download". Als de game gedownload is kan deze geopend worden in Unity. Hoe het spel zelf in zijn werk gaat valt te lezen in het kopje hieronder.
 
 
 <h2>Gebruiksaanwijzing</h2>
