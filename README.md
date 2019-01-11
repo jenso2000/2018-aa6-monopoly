@@ -3,6 +3,14 @@
 Wij maken een digitale versie van het wel bekende familie spel monopoly. <br>
 Dit gaan wij doen met een team van 6 mensen. <br>
 <br>
+
+
+<h1>Inhoudsopgave:</h1> <br>
+<h2>Rollen</h2><br>
+<h2>Installeren </h2><br>
+<h2>Gebruiksaanwijzing</h2><br>
+<h2>Documentatie</h2><br>
+
 # De rollen zijn als volgt verdeeld: <br>
 <br>
 <H3> Architect:</H3>  Matteo is in ons project de architect. Hij bekijkt wat er nodig is voor ons project en door wie dit gemaakt en geprogameerd moet worden. <br>
@@ -16,12 +24,6 @@ Dit gaan wij doen met een team van 6 mensen. <br>
 <H3>Front-End:</H3> Sjoerd is verantwoordelijk voor de Front-end. Hij zorgt ervooor dat het spel er aan de voorkant mooi en overzichtelijk uit ziet. <br>
 
 <H3>Product Owner:</H3> Jens is de product owner. Hij moet de eisen en de haalbaarheid van het product goed balanceren. Aan het einde is hij verantwoordeljk voor het product. <br>
-
-<h1>Inhoudsopgave:</h1> <br>
-<h2>Installeren </h2><br>
-<h2>Gebruiksaanwijzing</h2><br>
-<h2>Documentatie</h2><br>
-
 <br>
 <h2>Installeren </h2>
 Hoe moet je ons project installeren op de computer?
