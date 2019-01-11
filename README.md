@@ -30,7 +30,7 @@ Om onze game te kunnen spelen zal je eerst Unity moeten downloaden. Dit doe je v
 
 
 <h2>Gebruiksaanwijzing</h2>
-Hoe moet je ons project besturen?
+Om ons project te besturen hoef je in unity alleen op play te klikken en dan begint het. Als je op spatie drukt dan begint onze speler (de kubus) te lopen. Wij hebben in onze demo ingesteld dat de speler telkens maar 1 stap vooruit gaat zodat wij makkelijk alle functies konden laten zien. dit is echter uit te zetten in het script moveplayer. Je kan de "//" voor regel 24 weghalen en deze voor regel 25 zetten en dan krijg je 2 dobbelstenen die beide een random getal tussen de 1 en de 6 geven. Als je op de 1e straat komt, dan komt er in de user interface te staan of je deze wil kopen en hier kan je dan op klikken. Als deze wordt gekocht gaat het geld naar de bank. Als je op vrij parkeren komt krijg je dit geld terug.<br>
 
 
 <h2>Documentatie</h2>
