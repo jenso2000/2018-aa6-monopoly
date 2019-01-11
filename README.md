@@ -37,6 +37,6 @@ Hoe moet je ons project besturen?
 https://github.com/jenso2000/2018-aa6-monopoly/tree/master/Documentation<br>
 <br>
 
-Credits: <br>
+<h2>Credits: <br></h2>
 Meneer Velthuizen & Meneer van der Veen. <br>
 Daan, Jens, Bram, Matteo, Sjoerd en Immo<br>
