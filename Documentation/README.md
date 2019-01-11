@@ -1,4 +1,6 @@
 # Polymono
+<h1>Documentaite</h1>
+
 <h3>Belangrijke Commits: </h3> 
 Als je de reacties op de commits leest dan word duidelijk wat er in de commit gedaan is. Alle commits waar Update bij stat enn voor de rest geen verdere uitleg zijn niet belangrijk, want dit zijn kleine aanpassingen zoals kleur verandering of iets dergelijks.
 https://github.com/jenso2000/2018-aa6-monopoly/network
@@ -12,3 +14,10 @@ Bepalen wat haalbaar is in de relatief korte tijd die wij hadden. Hier hebben wi
 Het tweede probleem was het ontwikkelen en maken van het bord. Wij hebben gekzozen voor een plane en daar omheen hebben wij afzonderlijke blokken gemaakt die allemaal dezelfde prefab hebben, maar afzondelijk van elkaar eigenschappen, kleuren en waarden kunnnen bezitten.
 <h3>Probleem 3</h3>
 Het derde probleem had betrekking tot het thuis willen werken met unity. Het probleem is dat wij op school met unity 2017 werken en thuis unity 2018 hebben. Sjoerd wist niet dat je wel van 2017 naar 2018 kon, maar niet meer terug. dit zorgde uiteindelijk tot een crash die niet op gelost kon worden, waardoor wij naar de laatst opgeslagen versie terug moesten. dit koste ons veel tijd en heeft ook werk en vooruigang die wij hadden terug gedraaid. Dit was voor ons ook een les want hierna hebben wij thuis niet meer aan het project gewerkt en is er ook geen crash meer opgetreden.
+
+<H1> De progressie in het spel. </H1> <br>
+Alle commits voor de nieuwsgierige lezer: <br> https://github.com/jenso2000/2018-aa6-monopoly/commits/master<br>
+<h3>De levensloop van Polymono </h3>
+Het eerste idee: https://github.com/jenso2000/2018-aa6-monopoly/projects/1 
+Dit was ons eerste idee en hier hebben wij gekeken hoe wij ons project aan wilden pakken. Dit is dus het begin van ons project en de bakenmat voor ons eindproject. In de Architectuur https://www.draw.io/#Hjenso2000%2F2018-aa6-monopoly%2Fmaster%2FArchitecture%2FArchitecture.xml staan de concrete opbouw en ideeën. <br>
+
