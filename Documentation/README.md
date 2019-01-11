@@ -20,6 +20,10 @@ Alle commits voor de nieuwsgierige lezer: <br> https://github.com/jenso2000/2018
 <h3>De levensloop van het idee Polymono </h3>
 Het eerste idee: https://github.com/jenso2000/2018-aa6-monopoly/projects/1 
 Dit was ons eerste idee en hier hebben wij gekeken hoe wij ons project aan wilden pakken. Dit is dus het begin van ons project en de bakenmat voor ons eindproject. In de Architectuur https://www.draw.io/#Hjenso2000%2F2018-aa6-monopoly%2Fmaster%2FArchitecture%2FArchitecture.xml staan de concrete opbouw en ideeën. <br>
+Wij hebben in ons project een paar belangrijke keuzes moeten maken.
+De eerste keuze die wij gemaakt hebben ging over wel of niet invoegen van 3D dobbelstenen. Wij hebben er voor gekozen om dit niet te doen omdat dit onnodig veel tijd koste en het niet een doorslag gevend effect zou hebben op het spel. Wij hebben gekozen voor een random nummer generator die hetzelfde werkt als dobbelstenen.
+De tweede belangrijke keuze die wij hebben gemaakt was het niet invoegen van een loop animatie. Dit was eigenlijk hetzelfde met de dobbelstenen het zou niet veel toevoegen aan het spel en zou wel veel tijd gekost hebben en die tijd hebben we helaas niet gehad. 
+
 
 <H1>Groepsproces</H1>
 Ons groepsproces is in onze ogen zeer positief verlopen. Goede samenwerking tussen de verschillende taken. Back en front-end waren veel bezig over wat haalbaar was en slim was om wel of niet te doen. Product owner hield alles in de gaten. Iedereen werd overal eigenlijk wel over ingelicht en elke les begon met een kleine soort van vergadering over wat we gingen doen. In deze vergadering werden de moeilijke keuzes ook gemaakt. Zo was het voor iedereen duidelijk wat er van hem of haar verwacht werd. Al met al vond iedereen dat het groepsproces positief verlopen is en dat er sprake was van een fijne samenwerking.
